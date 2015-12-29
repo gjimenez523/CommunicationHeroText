@@ -1,0 +1,2 @@
+C:\Projects\CommunicationHeroText\obj\Debug\CommunicationHeroText.njsprojResolveAssemblyReference.cache
+C:\Projects\CommunicationHeroText\bin\Microsoft.NodejsTools.WebRole.dll
